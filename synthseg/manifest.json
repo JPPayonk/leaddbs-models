@@ -1,0 +1,14 @@
+{
+  "synthseg_robust_2.0.onnx": {
+    "sha256": "e109b1a1b686a9086a58d263b3464d9fd2357cd694545426aae4421b7a5d648d",
+    "bytes": 214364006,
+    "source": "synthseg_robust_2.0.h5",
+    "source_sha256": "7bc30bf5c3d204f20c4a6cb5a283aedbcab6af1de927cda783f59b67d19cb01c"
+  },
+  "synthseg_parc_2.0.onnx": {
+    "sha256": "1a9da8a9772682a80f08afe891c1b0bbd4cb2f03eb4d2c45fd6d85ea8747d3d8",
+    "bytes": 53088682,
+    "source": "synthseg_parc_2.0.h5",
+    "source_sha256": "83bb1de76fb6f173c6dacacd433f81209fc6abb1dbc179a930ec06ecabbeb684"
+  }
+}
